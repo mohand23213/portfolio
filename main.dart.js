@@ -65131,8 +65131,8 @@ else{s=A.bf(a,B.a2,l).w.a.a*0.05
 s=new A.aU(s,150,s,150)}r=t.E
 q=A.a([],r)
 if(k){p=A.bf(a,B.a2,l).w
-q.push(A.em(n,A.kU(A.a([A.bO(n,30,n),A.acz(B.DX,new A.kK(m,n,n),A.bf(a,B.a2,l).w.a.a*0.23),A.bO(n,30,n)],r),B.ad,B.cU),B.u,n,n,n,n,n,n,n,n,n,p.a.a-20))}q.push(A.dt("Hi there, Welcome to my protflio",A.cf(n,n,$.mO(),n,n,n,n,n,n,n,n,25,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.af))
-q.push(A.bO(n,30,n))
+q.push(A.em(n,A.kU(A.a([A.bO(n,30,n),A.acz(B.DX,new A.kK(m,n,n),A.bf(a,B.a2,l).w.a.a*0.23),A.bO(n,30,n)],r),B.ad,B.cU),B.u,n,n,n,n,n,n,n,n,n,p.a.a-20))}q.push(A.dt("Hi there, Welcome to my portfolio",A.cf(n,n,$.mO(),n,n,n,n,n,n,n,n,30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.af))
+q.push(A.bO(n,20,n))
 q.push(A.dt("I'm mohand idrees",A.cf(n,n,B.h,n,n,n,n,n,n,n,n,40,n,n,B.bW,n,n,!0,n,n,n,n,n,n,n,n),B.af))
 q.push(A.bO(n,20,n))
 q.push(A.k2(A.a([A.adv(B.zU,B.pB,n),A.bO(n,30,n),A.dt("Flutter developer",A.cf(n,n,$.mO(),n,n,n,n,n,n,n,n,30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.af)],r),B.ad,B.aC,B.aP))
